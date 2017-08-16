@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="590px" viewBox="0 0 1920 590" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Background/v2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Background/v2" fill="#F1D9FF">
+            <g id="Group-2" transform="translate(952.500000, 298.500000) scale(-1, -1) translate(-952.500000, -298.500000) translate(48.000000, 23.000000)">
+                <g id="Large-stars" transform="translate(50.000000, 0.000000)">
+                    <circle id="Star_L" cx="616.183594" cy="4.1484375" r="4"></circle>
+                    <circle id="Star_L" cx="72.9726562" cy="75.234375" r="4"></circle>
+                    <circle id="Star_L" cx="699.753906" cy="471.523438" r="4"></circle>
+                    <circle id="Star_L" cx="4.96484375" cy="399.273438" r="4"></circle>
+                    <circle id="Star_L" cx="756.726562" cy="132.5" r="4"></circle>
+                </g>
+                <g id="Stars" transform="translate(0.000000, 10.000000)">
+                    <circle id="Star_S" cx="613.683594" cy="1.6484375" r="1.5"></circle>
+                    <circle id="Star_S" cx="70.4726562" cy="72.734375" r="1.5"></circle>
+                    <circle id="Star_S" cx="697.253906" cy="469.023438" r="1.5"></circle>
+                    <circle id="Star_S" cx="753.683594" cy="71.6484375" r="1.5"></circle>
+                    <circle id="Star_S" cx="210.472656" cy="142.734375" r="1.5"></circle>
+                    <circle id="Star_S" cx="837.253906" cy="539.023438" r="1.5"></circle>
+                    <circle id="Star_S" cx="2.46484375" cy="396.773438" r="1.5"></circle>
+                    <circle id="Star_S" cx="754.226562" cy="130" r="1.5"></circle>
+                    <circle id="Star_S" cx="470.472656" cy="122.734375" r="1.5"></circle>
+                    <circle id="Star_S" cx="563.683594" cy="351.648438" r="1.5"></circle>
+                    <circle id="Star_S" cx="20.4726562" cy="422.734375" r="1.5"></circle>
+                    <circle id="Star_S" cx="703.683594" cy="421.648438" r="1.5"></circle>
+                    <circle id="Star_S" cx="290.472656" cy="272.734375" r="1.5"></circle>
+                    <circle id="Star_S" cx="834.226562" cy="260" r="1.5"></circle>
+                    <circle id="Star_S" cx="550.472656" cy="252.734375" r="1.5"></circle>
+                    <circle id="Star_S" cx="342.464844" cy="506.773438" r="1.5"></circle>
+                </g>
+                <g id="Large-stars" transform="translate(1019.921875, 0.000000)">
+                    <circle id="Star_L" cx="616.183594" cy="4.1484375" r="4"></circle>
+                    <circle id="Star_L" cx="72.9726562" cy="75.234375" r="4"></circle>
+                    <circle id="Star_L" cx="699.753906" cy="471.523438" r="4"></circle>
+                    <circle id="Star_L" cx="4.96484375" cy="399.273438" r="4"></circle>
+                    <circle id="Star_L" cx="756.726562" cy="132.5" r="4"></circle>
+                </g>
+                <g id="Stars" transform="translate(969.921875, 10.000000)">
+                    <circle id="Star_S" cx="613.683594" cy="1.6484375" r="1.5"></circle>
+                    <circle id="Star_S" cx="70.4726562" cy="72.734375" r="1.5"></circle>
+                    <circle id="Star_S" cx="697.253906" cy="469.023438" r="1.5"></circle>
+                    <circle id="Star_S" cx="753.683594" cy="71.6484375" r="1.5"></circle>
+                    <circle id="Star_S" cx="210.472656" cy="142.734375" r="1.5"></circle>
+                    <circle id="Star_S" cx="837.253906" cy="539.023438" r="1.5"></circle>
+                    <circle id="Star_S" cx="2.46484375" cy="396.773438" r="1.5"></circle>
+                    <circle id="Star_S" cx="754.226562" cy="130" r="1.5"></circle>
+                    <circle id="Star_S" cx="470.472656" cy="122.734375" r="1.5"></circle>
+                    <circle id="Star_S" cx="563.683594" cy="351.648438" r="1.5"></circle>
+                    <circle id="Star_S" cx="20.4726562" cy="422.734375" r="1.5"></circle>
+                    <circle id="Star_S" cx="703.683594" cy="421.648438" r="1.5"></circle>
+                    <circle id="Star_S" cx="290.472656" cy="272.734375" r="1.5"></circle>
+                    <circle id="Star_S" cx="834.226562" cy="260" r="1.5"></circle>
+                    <circle id="Star_S" cx="550.472656" cy="252.734375" r="1.5"></circle>
+                    <circle id="Star_S" cx="342.464844" cy="506.773438" r="1.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="498px" height="195px" viewBox="0 0 498 195" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Title</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Cubano-Regular, Cubano" font-weight="normal">
+        <g id="0.0.1_Title-Screen" transform="translate(-232.000000, -52.000000)" fill="#FFFF73">
+            <g id="Title" transform="translate(224.000000, 10.000000)">
+                <text id="Counters" font-size="100" line-spacing="130" letter-spacing="5">
+                    <tspan x="4.6" y="230">Counter</tspan>
+                    <tspan x="450.2" y="230">s</tspan>
+                </text>
+                <text id="Cosmic" font-size="150" letter-spacing="1">
+                    <tspan x="3.3" y="150">cosmi</tspan>
+                    <tspan x="424.7" y="150">c</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

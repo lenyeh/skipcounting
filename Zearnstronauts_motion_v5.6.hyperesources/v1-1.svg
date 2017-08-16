@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="590px" viewBox="0 0 960 590" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Background/v1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#2B004D" offset="0%"></stop>
+            <stop stop-color="#36005C" offset="29.8409598%"></stop>
+            <stop stop-color="#740084" offset="50.7473693%"></stop>
+            <stop stop-color="#35005A" offset="74.7130102%"></stop>
+            <stop stop-color="#2B004D" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="2.56544957%" cy="2.54029813%" fx="2.56544957%" fy="2.54029813%" r="138.171501%" gradientTransform="translate(0.025654,0.025403),scale(0.207207,1.000000),rotate(11.594755),translate(-0.025654,-0.025403)" id="radialGradient-2">
+            <stop stop-color="#3023AE" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#C86DD7" stop-opacity="0.25" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-4.7%" y="-22.6%" width="109.4%" height="145.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="15" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <radialGradient cx="2.56544957%" cy="2.54029813%" fx="2.56544957%" fy="2.54029813%" r="138.171501%" gradientTransform="translate(0.025654,0.025403),scale(0.194907,1.000000),rotate(10.923538),translate(-0.025654,-0.025403)" id="radialGradient-4">
+            <stop stop-color="#3023AE" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#C86DD7" stop-opacity="0.25" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-4.7%" y="-24.1%" width="109.4%" height="148.2%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="15" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Background/v1">
+            <rect id="Rectangle" fill="url(#linearGradient-1)" x="0.405827263" y="0" width="959.001041" height="590"></rect>
+            <g id="Large-stars" transform="translate(98.303850, 23.000000)" fill="#F1D9FF">
+                <ellipse id="Star_L" cx="613.544485" cy="2.1484375" rx="1.99791883" ry="2"></ellipse>
+                <ellipse id="Star_L" cx="70.8988033" cy="73.234375" rx="1.99791883" ry="2"></ellipse>
+                <ellipse id="Star_L" cx="697.027836" cy="469.523438" rx="1.99791883" ry="2"></ellipse>
+                <ellipse id="Star_L" cx="2.96175858" cy="397.273438" rx="1.99791883" ry="2"></ellipse>
+                <ellipse id="Star_L" cx="753.941207" cy="130.5" rx="1.99791883" ry="2"></ellipse>
+            </g>
+            <g id="Stars" transform="translate(49.000000, 33.000000)" fill="#F1D9FF">
+                <ellipse id="Star_S" cx="611.901405" cy="1.1484375" rx="1" ry="1"></ellipse>
+                <ellipse id="Star_S" cx="69.2557232" cy="72.234375" rx="1" ry="1"></ellipse>
+                <ellipse id="Star_S" cx="695.384755" cy="468.523438" rx="1" ry="1"></ellipse>
+                <ellipse id="Star_S" cx="751.755723" cy="71.1484375" rx="1" ry="1"></ellipse>
+                <path d="M209.609521,144.234375 C208.781956,144.234375 208.111082,143.562802 208.111082,142.734375 C208.111082,141.905948 208.781956,141.234375 209.609521,141.234375 C210.437086,141.234375 211.10796,141.905948 211.10796,142.734375 C211.10796,143.562802 210.437086,144.234375 209.609521,144.234375 Z M1.81815817,398.273438 C0.990593091,398.273438 0.319719043,397.601865 0.319719043,396.773438 C0.319719043,395.94501 0.990593091,395.273438 1.81815817,395.273438 C2.64572325,395.273438 3.31659729,395.94501 3.31659729,396.773438 C3.31659729,397.601865 2.64572325,398.273438 1.81815817,398.273438 Z" id="Star_S"></path>
+                <ellipse id="Star_S" cx="835.738554" cy="539.023438" rx="1.49843913" ry="1.5"></ellipse>
+                <ellipse id="Star_S" cx="752.298127" cy="129.5" rx="1" ry="1"></ellipse>
+                <ellipse id="Star_S" cx="468.83949" cy="122.234375" rx="1" ry="1"></ellipse>
+                <ellipse id="Star_S" cx="561.953434" cy="351.148438" rx="1" ry="1"></ellipse>
+                <ellipse id="Star_S" cx="19.3077523" cy="422.234375" rx="1" ry="1"></ellipse>
+                <ellipse id="Star_S" cx="701.807752" cy="421.148438" rx="1" ry="1"></ellipse>
+                <ellipse id="Star_S" cx="289.026795" cy="272.234375" rx="1" ry="1"></ellipse>
+                <ellipse id="Star_S" cx="832.21488" cy="259.5" rx="1" ry="1"></ellipse>
+                <ellipse id="Star_S" cx="548.756243" cy="252.234375" rx="1" ry="1"></ellipse>
+                <ellipse id="Star_S" cx="340.96488" cy="506.273438" rx="1" ry="1"></ellipse>
+            </g>
+            <g id="Aurora" transform="translate(0.000000, 174.000000)">
+                <path d="M58.1755635,65.1448036 C112.31672,42.6037968 162.133405,-16.7083483 283.644885,5.78034181 C405.156365,28.2690319 519.603766,162.344674 642.173114,138.47034 C764.742463,114.596006 762.091979,24.1120996 885.719196,14.9462207 C912.97958,12.9251012 959.511487,16.0414641 959.461636,16.0414641 C959.411785,16.0414641 959.411785,51.9885304 959.411785,51.9885304 C959.411785,51.9885304 912.106666,27.7406854 885.013951,35.3033806 C846.833818,45.9610317 898.948363,116.569091 819.499741,162.55693 C740.051119,208.544769 310.188467,220.428125 277.475924,146.410514 C244.763382,72.3929032 213.36833,42.7637363 169.348609,51.2898572 C149.990366,55.0393295 93.830965,85.7000752 0.870407395,143.272094 L0.405827263,83.9980469 C24.2058819,77.5548379 43.4624606,71.2704235 58.1755635,65.1448036 Z" id="Path-3" fill="url(#radialGradient-2)" filter="url(#filter-3)"></path>
+                <path d="M1.04108702,135.363601 C45.7798484,110.477716 99.2359765,68.1840089 203.500438,87.4807136 C325.011918,109.969404 439.459318,234.045046 562.028666,210.170712 C684.598015,186.296377 681.947532,105.812471 805.574749,96.6465925 C861.723287,92.4836685 928.859973,96.6465925 959.341631,117.433498 C959.341631,117.433498 959.341631,156.286309 959.341631,156.286309 C948.841113,139.979669 910.098061,137.673656 877.241867,146.845175 C839.061734,157.502826 818.803915,198.269463 739.355293,244.257302 C659.906671,290.245141 230.044019,272.128497 197.331477,198.110886 C164.618934,124.093275 133.223883,124.464108 89.2041615,132.990229 C72.2913376,136.266051 0.743200972,180.904299 0.892143995,180.904299 C1.04108702,180.904299 1.04108702,135.363601 1.04108702,135.363601 Z" id="Path-3" fill="url(#radialGradient-4)" filter="url(#filter-5)" transform="translate(480.116771, 175.988858) scale(-1, -1) translate(-480.116771, -175.988858) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

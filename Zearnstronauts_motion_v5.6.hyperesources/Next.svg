@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="60px" viewBox="0 0 960 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Keypad/Next</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Keypad/Next">
+            <rect id="Background" fill="#CCCCCC" x="0" y="0" width="960" height="60"></rect>
+            <path d="M923.004021,54 L36.9959793,54 C22.4181505,54 10,52.2 10,50 L10,14 C10,11.8 21.8782309,10 36.9959793,10 L923.004021,10 C937.58185,10 950,11.8 950,14 L950,50 C950,52.2 938.121769,54 923.004021,54 L923.004021,54 Z" id="Shape" fill="#00A8C4"></path>
+            <path d="M923.004021,52 L36.9959793,52 C22.4181505,52 10,50.2 10,48 L10,12 C10,9.8 21.8782309,8 36.9959793,8 L923.004021,8 C937.58185,8 950,9.8 950,12 L950,48 C950,50.2 938.121769,52 923.004021,52 L923.004021,52 Z" id="Shape" fill="#1CC7E6"></path>
+            <text id="Next" fill="#FFFFFF" font-family="Oxygen-Bold, Oxygen" font-size="24" font-weight="bold">
+                <tspan x="435" y="39">Next</tspan>
+            </text>
+            <path d="M513.4,39 C512.7,39 512.1,38.7 511.7,38.2 L507.9,32.9 C507.2,32 507.3,30.6 508.3,29.9 C509.2,29.2 510.6,29.3 511.4,30.3 L513.4,33.4 L521.6,22 C522.3,21 523.6,20.8 524.6,21.5 C525.6,22.2 525.8,23.5 525.1,24.4 L515.2,38.2 C514.7,38.7 514.1,39 513.4,39 L513.4,39 L513.4,39 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
